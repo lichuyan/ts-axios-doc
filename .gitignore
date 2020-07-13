@@ -1,0 +1,14 @@
+.idea/
+.DS_Store
+node_modules/
+
+# Project exclude paths
+/examples/section1/index.js
+/examples/section2/index.js
+/examples/section3/index.js
+/examples/section4/index.js
+/examples/section5/index.js
+/examples/section6/index.js
+/examples/section7/index.js
+/examples/section8/index.js
+/examples/greet.js
